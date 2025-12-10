@@ -1,0 +1,26 @@
+{
+  "General": {
+    "Hours": "Clinic hours: Mon–Fri 9:00–17:00, Sat 10:00–14:00.",
+    "Address": "123 Health Lane, Springfield, USA",
+    "Reception": "Phone: +1-555-987-0000 | Email: contact@springfieldhealth.org"
+  },
+  "Appointments": {
+    "HowToBook": "Appointments can be booked online or via phone. Same-day slots are limited.",
+    "CancelPolicy": "Please cancel at least 24 hours before your visit to avoid a small fee.",
+    "WalkIns": "Walk-ins may be accepted depending on current availability."
+  },
+  "Services": {
+    "Checkups": "Routine health check-ups, preventive exams, and blood tests.",
+    "Pediatrics": "Care for infants, children, and teens up to age 18.",
+    "Vaccination": "Full vaccination and immunization support for all age groups."
+  },
+  "Billing": {
+    "Insurance": "We accept major insurance providers including Aetna, Cigna, and Blue Cross.",
+    "Payments": "We support credit/debit cards, cash, and online transfers.",
+    "Refunds": "Refunds are processed within 7 business days."
+  },
+  "Emergency": {
+    "EmergencyCare": "Our emergency care department is open 24/7.",
+    "AmbulanceService": "Ambulance service available for urgent situations. In emergencies call 911."
+  }
+}
