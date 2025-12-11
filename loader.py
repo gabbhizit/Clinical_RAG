@@ -10,10 +10,7 @@ def load_clinic_docs(data_path: str = None):
         candidates.append(Path(data_path))
 
     candidates += [
-        Path("data/info.JSON"),
         Path("data/info.json"),
-        Path("data/clinic_info.json"),
-        Path("data/clinic_info.JSON"),
     ]
 
     p = None
